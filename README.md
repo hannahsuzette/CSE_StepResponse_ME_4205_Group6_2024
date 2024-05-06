@@ -8,11 +8,14 @@
 ![Screenshot 2024-05-06 214813](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/c7c3c267-38f8-46ed-8b3a-1a127046b13c)
 ![Screenshot 2024-05-06 214839](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/051d4a9a-780a-4b85-9ce2-f3f9a4979c75)
 
+3.Second Order Critically Damped System
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/c51ee45f-3566-4d40-a6fd-c30546eb4f01)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/5b1b963c-53b9-4993-a304-32510037ed19)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/b5f6292e-89c8-4c60-a985-21f59c615f17)
+
 4.
 
-5.
-
-6. Resonant System
+5. Resonant System
 
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/5765f1cc-a775-4faa-b35c-a63df1c6ff0e)
 
