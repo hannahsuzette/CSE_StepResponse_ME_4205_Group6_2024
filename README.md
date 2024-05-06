@@ -31,8 +31,11 @@
 <img width="427" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/92b925a6-86e5-4a37-87ef-2b510e8df926">
 
 8. Nonlinear System Approximation
-<img width="428" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/45658039-95ac-45ee-bdb4-3cff0c3c4164">
-<img width="755" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/e99d1ec1-1433-4729-9d37-d4eab722d251">
-<img width="427" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/6d47091e-baaa-4e2d-a213-d07394c7471e">
+![Screenshot 2024-05-06 214737](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/11fb63cc-4d31-4955-b564-e4109d423176)
+![Screenshot 2024-05-06 214813](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/c7c3c267-38f8-46ed-8b3a-1a127046b13c)
+![Screenshot 2024-05-06 214839](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/051d4a9a-780a-4b85-9ce2-f3f9a4979c75)
+
+
+
 
 # CSE_StepResponse_ME_4205_Group6_2024
