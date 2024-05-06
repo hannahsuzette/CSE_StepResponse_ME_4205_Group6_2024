@@ -9,9 +9,15 @@
 
 4.
 
-5.
+5. Resonant System
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/5765f1cc-a775-4faa-b35c-a63df1c6ff0e)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/82667618-4ec0-454e-b903-0a374aa8512b)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/bac25c42-c486-4390-89c2-2fc2f7d524a9)
 
-6. 
+6. Electrical Filter with Multiple Poles
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/148b0873-f0c0-4c58-913b-e340a98f30c2)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/738cb6fd-e4ba-40b2-9ffe-caa5243e7060)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/8338f04b-f288-4fe3-8363-1ecf3c9df85b)
 
 7. Plant Time with Delay
 <img width="431" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/5e7f324c-cd89-485b-bb95-8d8aa62e2e0d">
