@@ -4,9 +4,7 @@
   ![Screenshot 2024-05-06 214000](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/41fb98f6-504c-42eb-9814-1d7465362ccc)
 
 2. Second Order Overdamped System
-![Screenshot 2024-05-06 214737](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/11fb63cc-4d31-4955-b564-e4109d423176)
-![Screenshot 2024-05-06 214813](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/c7c3c267-38f8-46ed-8b3a-1a127046b13c)
-![Screenshot 2024-05-06 214839](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/051d4a9a-780a-4b85-9ce2-f3f9a4979c75)
+
 
 3.Second Order Critically Damped System
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/c51ee45f-3566-4d40-a6fd-c30546eb4f01)
@@ -40,10 +38,9 @@
 <img width="427" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/92b925a6-86e5-4a37-87ef-2b510e8df926">
 
 8. Nonlinear System Approximation
-<img width="431" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/1229d94e-1a89-45f6-9b6b-de0ad38e2fdd">
-<img width="755" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/a07766bc-315e-4f31-8cc8-cd46ab65e6b0">
-<img width="426" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/32859c76-224c-44c7-af51-872af0d69f21">
-
+![Screenshot 2024-05-06 214737](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/11fb63cc-4d31-4955-b564-e4109d423176)
+![Screenshot 2024-05-06 214813](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/c7c3c267-38f8-46ed-8b3a-1a127046b13c)
+![Screenshot 2024-05-06 214839](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/051d4a9a-780a-4b85-9ce2-f3f9a4979c75)
 
 
 
