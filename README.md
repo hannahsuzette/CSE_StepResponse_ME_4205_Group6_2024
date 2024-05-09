@@ -10,6 +10,7 @@
 
 
 3.Second Order Critically Damped System
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/17ad2a15-908b-46ee-bbaf-89be4bb5d013)
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/c51ee45f-3566-4d40-a6fd-c30546eb4f01)
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/5b1b963c-53b9-4993-a304-32510037ed19)
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/b5f6292e-89c8-4c60-a985-21f59c615f17)
