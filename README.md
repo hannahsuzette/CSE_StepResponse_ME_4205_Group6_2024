@@ -16,9 +16,13 @@
 
 
 4. First Order System
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/876ff6c6-19a9-454c-8844-e16d215da7cf)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/3c8dccdf-40a5-434e-991f-ebfb956dfec8)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/8aaf19a6-85cd-42fc-b653-c2aa93ed9922)
+
   
 
-5. Resonant System
+6. Resonant System
 
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/5765f1cc-a775-4faa-b35c-a63df1c6ff0e)
 
