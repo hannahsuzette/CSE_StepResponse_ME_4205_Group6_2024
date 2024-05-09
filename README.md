@@ -31,7 +31,9 @@
 ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/161543991/8338f04b-f288-4fe3-8363-1ecf3c9df85b)
 
 7. Plant Time with Delay
-
+<img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/9815864a-9da7-4d6d-bd16-19dcb75a736f">
+<img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/580b6f41-085d-4f2b-94d1-51eba73a23ec">
+<img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/67d0a95c-2a6b-4944-8632-69beb268b4b4">
 
 8. Nonlinear System Approximation
 ![Screenshot (181)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/5a9eefb3-12ab-49f7-9046-8a0f8c6cbb37)
