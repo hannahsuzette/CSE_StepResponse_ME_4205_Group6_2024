@@ -7,7 +7,7 @@
 
 2. Second Order Overdamped System
 <img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/78208713-d86b-4a05-b224-d7f1feb55987">
-<img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/916675e3-edb8-4cc7-a9de-84226088f774">
+<img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/3d0a219c-17bb-425d-8531-9d34fed6583c">
 <img width="1079" alt="image" src="https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159096382/87e9a735-2dbf-4d34-917f-ddd9e60c8220">
 
 3.Second Order Critically Damped System
