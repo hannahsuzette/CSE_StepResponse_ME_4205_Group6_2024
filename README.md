@@ -10,15 +10,13 @@
 
 
 3.Second Order Critically Damped System
-![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/17ad2a15-908b-46ee-bbaf-89be4bb5d013)
-![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/c51ee45f-3566-4d40-a6fd-c30546eb4f01)
-![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/5b1b963c-53b9-4993-a304-32510037ed19)
-![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/b5f6292e-89c8-4c60-a985-21f59c615f17)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/498f48ca-268e-4b34-88c8-09a5aacc829e)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/54f984f8-1e43-4e53-b675-a0e5828c76fd)
+![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/96dce390-9f62-4189-bb9a-e52c12d63f2a)
+
 
 4. First Order System
-   ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/20febd7d-a32f-4f47-868c-220a146eac25)
-   ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/486efdc3-d12d-4916-a28b-2410da878396)
-   ![image](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/91923863/498d2db7-3f70-4152-a5b9-a271a0e43ba3)
+  
 
 5. Resonant System
 
