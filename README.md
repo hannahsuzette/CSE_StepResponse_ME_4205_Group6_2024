@@ -1,7 +1,10 @@
 1. Second Order Underdamped System
-  ![Screenshot 2024-05-06 213836](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/c5c58d8d-8efe-4f67-abe0-5f8dbea1bec3)
-  ![Screenshot 2024-05-06 213930](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/a7522289-b89c-488d-bf9a-6337d9cf17ce)
-  ![Screenshot 2024-05-06 214000](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/41fb98f6-504c-42eb-9814-1d7465362ccc)
+![Screenshot (175)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/09d58490-913b-4873-a0b8-b1c4b68c469c)
+![Screenshot (177)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/98b015ef-2d52-4be3-b203-a766e202fdbd)
+![Screenshot (176)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/b7ac73c6-aa6d-4b22-aba1-d6e8fb4c285c)
+![Screenshot (179)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/67da06c0-8d6a-41eb-881b-7d16eb6874fb)
+![Screenshot (180)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/978cf337-d949-4036-b0a8-1bb0a7ed2205)
+
 
 2. Second Order Overdamped System
 
@@ -36,9 +39,12 @@
 
 
 8. Nonlinear System Approximation
-![Screenshot 2024-05-06 214737](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/11fb63cc-4d31-4955-b564-e4109d423176)
-![Screenshot 2024-05-06 214813](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/c7c3c267-38f8-46ed-8b3a-1a127046b13c)
-![Screenshot 2024-05-06 214839](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/051d4a9a-780a-4b85-9ce2-f3f9a4979c75)
+![Screenshot (181)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/5a9eefb3-12ab-49f7-9046-8a0f8c6cbb37)
+![Screenshot (182)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/3cb3d15c-c110-4322-8c0b-2a6b9cc3e055)
+![Screenshot (183)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/f1569e7b-c46d-4c8f-a630-1223c2f1ed3c)
+![Screenshot (184)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/3bda0dc4-c5db-4534-a81e-9aaf594f0b43)
+![Screenshot (185)](https://github.com/hannahsuzette/CSE_StepResponse_ME_4205_Group6_2024/assets/159043076/b9da2563-6b40-41a6-8775-03edf8e3b065)
+
 
 
 
